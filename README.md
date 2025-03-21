@@ -1,2 +1,2 @@
-# Java_Shipping_Company_HW_
+# Java Shipping Company Calculator
 HW_#1 for Backend Development
