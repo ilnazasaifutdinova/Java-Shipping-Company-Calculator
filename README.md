@@ -66,3 +66,16 @@ javac Test/Day11.java
 # 3️⃣ Run the compiled program
 java Test.Day11
 ```
+
+## 💡 Example Output
+
+![Shipping Calculator Output](Example_Output.png)
+
+**Order Summary:**
+
+- 📦 Total Volume: `101.1 m³`
+- ⚖️ Total Weight: `3015.0 kg`
+- 🚚 Containers Used:
+  - 1 × Big Container
+  - 1 × Small Container
+- 💶 Total Shipping Cost: `3000.0 Euros`
